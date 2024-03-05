@@ -4,5 +4,5 @@ The project revolves around designing 2 BLE embedded systems that collect and tr
 thermostat. For a more detailed description of the problem and the implementation you can check out the Report.pdf file.
 
 
-###Credits
+### Credits
 Benjamin Heath, Christina Athanasiadou, D’Angelo Villarico Fitzpatrick, Spyridon Chatzigeorgiou
